@@ -1,24 +1,23 @@
 (use-modules (haunt asset)
-	           (haunt page)
-	           (haunt html)
-	           (haunt post)
-	           (haunt site)
+             (haunt page)
+             (haunt html)
+             (haunt post)
+             (haunt site)
              (commonmark))
 
 (define (base-template body)
    `((doctype html)
-    (head
-     (meta (@ (charset "utf-8")))
-     (meta (@ (name "viewport")
-	            (content "width=device-width, initial-scale=1")))
-     (title "Awesome Haunt")
-     ;; css
-     (link (@ (rel "stylesheet")
-	            (href "https://unpkg.com/terminal.css@0.7.2/dist/terminal.min.css")))
-     (body (@ (class "terminal"))
-           (div (@ (class "container"))
-           ,body)))))
-
+     (head
+       (meta (@ (charset "utf-8")))
+       (meta (@ (name "viewport")
+                (content "width=device-width, initial-scale=1")))
+       (title "Awesome Haunt")
+       ;; css
+       (link (@ (rel "stylesheet")
+                (href "https://unpkg.com/terminal.css@0.7.2/dist/terminal.min.css")))
+       (body (@ (class "terminal"))
+             (div (@ (class "container"))
+                  ,body)))))
 
 (define index-sxml
   (call-with-input-file "readme.md"
@@ -26,10 +25,9 @@
       (commonmark->sxml port))))
 
 (define (index-page site posts)
-  (display index-sxml)
   (make-page "index.html"
-	           (base-template index-sxml)
-	           sxml->html))
+             (base-template index-sxml)
+             sxml->html))
 
 (site #:title "awesome.haunt.page"
       #:domain "awesome.haunt.page"
