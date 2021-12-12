@@ -1,4 +1,4 @@
-### Awesome Haunt
+### [Awesome Haunt](https://awesome.haunt.page/)
 #### Collection of sites made with [Haunt](https://dthompson.us/projects/haunt.html)
 
 Following was created as a list of resources collected to learn Haunt by example. 
