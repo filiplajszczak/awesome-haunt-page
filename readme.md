@@ -10,6 +10,8 @@ It was deployed as a site in the process of dogfooding.
 \[[source](http://git.savannah.gnu.org/cgit/guile/guile-web.git)\] - The language
 * **[GNU Guix](https://guix.gnu.org/)**
 \[[source](https://git.savannah.gnu.org/cgit/guix/guix-artwork.git/tree/website)\] - Looks like the most complex haunt website
+* **[Bootstrappable Builds](https://www.bootstrappable.org/)**
+\[[source](https://git.savannah.gnu.org/cgit/guix/bootstrappable.git/)\] - Building software from source (almost) without binaries
 * **[bendersteed blog](https://bendersteed.tech/)**
 \[[source](https://gitlab.com/bendersteed/bendersteed-tech)\] - Mathematician and programmer
 * **[Dusty Cloud Brainstorms](https://dustycloud.org/)**
