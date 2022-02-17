@@ -1,7 +1,6 @@
-(use-modules (haunt asset)
+(use-modules (haunt builder assets)
              (haunt page)
              (haunt html)
-             (haunt post)
              (haunt site)
              (commonmark))
 
@@ -14,7 +13,7 @@
        (title "Awesome Haunt")
        ;; css
        (link (@ (rel "stylesheet")
-                (href "https://unpkg.com/terminal.css@0.7.2/dist/terminal.min.css")))
+                (href "static/css/terminal.min.css")))
        (body (@ (class "terminal"))
              (div (@ (class "container"))
                   ,body)))))
@@ -35,5 +34,5 @@
       '((author . "filip lajszczak")
         (email  . "filip@lajszczak.dev"))
       #:readers (list)
-      #:builders (list index-page))
+      #:builders (list index-page (static-directory "static")))
 

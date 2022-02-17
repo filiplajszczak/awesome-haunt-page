@@ -1,0 +1,15 @@
+image: guix 
+packages:
+  - haunt
+  - guile-commonmark
+oauth: pages.sr.ht/PAGES:RW
+environment:
+  site: awesome.haunt.page
+tasks:
+- package: |
+    cd awesome-haunt-page 
+    haunt build
+    tar -C site -cvz . > ../site.tar.gz
+- upload: |
+    acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz
+
