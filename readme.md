@@ -34,5 +34,9 @@ It was deployed as a site in the process of dogfooding.
 Made with [Haunt](https://dthompson.us/projects/haunt.html) a static site generator written in
 [Guile Scheme](https://www.gnu.org/software/guile/) and [terminal.css](https://terminalcss.xyz/)
 
-Source is available on [gitlab](https://gitlab.com/filiplajszczak/awesome-haunt-page)
-and [sourcehut](https://git.sr.ht/~filiplajszczak/awesome-haunt-page). Patches are welcome.
+Built on [GNU Guix](https://sr.ht/~dhruvin/builds.sr.ht-guix/)
+on [Sourcehut builds](https://man.sr.ht/builds.sr.ht/)
+and hosted on [Sourcehut pages](https://srht.site/)
+
+Source is available on [sourcehut](https://git.sr.ht/~filiplajszczak/awesome-haunt-page) and
+[gitlab](https://gitlab.com/filiplajszczak/awesome-haunt-page). Patches are welcome.
