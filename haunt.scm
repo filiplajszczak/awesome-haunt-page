@@ -1,5 +1,5 @@
-(use-modules (haunt builder assets)
-             (haunt page)
+(use-modules (haunt artifact)
+             (haunt builder assets)
              (haunt html)
              (haunt site)
              (commonmark))
@@ -24,9 +24,9 @@
       (commonmark->sxml port))))
 
 (define (index-page site posts)
-  (make-page "index.html"
-             (base-template index-sxml)
-             sxml->html))
+  (serialized-artifact "index.html"
+                       (base-template index-sxml)
+                       sxml->html))
 
 (site #:title "awesome.haunt.page"
       #:domain "awesome.haunt.page"
