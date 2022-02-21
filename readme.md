@@ -31,8 +31,8 @@ It was deployed as a site in the process of dogfooding.
 
 ---
 
-Made with [Haunt](https://dthompson.us/projects/haunt.html) a static site generator written in
-[Guile Scheme](https://www.gnu.org/software/guile/) and [terminal.css](https://terminalcss.xyz/)
+Made with [Haunt](https://dthompson.us/projects/haunt.html), a static site generator written in
+[Guile Scheme](https://www.gnu.org/software/guile/), and [terminal.css](https://terminalcss.xyz/)
 
 Built on [GNU Guix](https://sr.ht/~dhruvin/builds.sr.ht-guix/)
 on [Sourcehut builds](https://man.sr.ht/builds.sr.ht/)
