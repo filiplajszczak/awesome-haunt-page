@@ -22,12 +22,12 @@ It was deployed as a site in the process of dogfooding.
 \[[source](https://gitlab.com/fossandcrafts/fossandcrafts-website)\] - Podcast about free software
 * **[Jakob L. Kreuze](https://jakob.space/)**
 \[[source](https://git.sr.ht/~jakob/blog)\] - Yet another functional programming blog
-* **[Elais Player site](https://elais.codes/)**
-\[[source](https://git.sr.ht/~elais/elais.codes)\] - Blog from Los Alamos
 * **[Guix-HPC](https://hpc.guix.info/)**
 \[[source](https://gitlab.inria.fr/guix-hpc/website)\] - Guix high-performance computing effort
 * **[ActivityPub](https://activitypub.rocks/)**
 \[[source](https://gitlab.com/dustyweb/activitypub.rocks)\] - Decentralized social networking protocol 
+* **[Andrew Tropin](http://trop.in/)**
+\[[source](https://git.sr.ht/~abcdw/trop.in)\] - Creator of Guix Home and rde
 
 ---
 
