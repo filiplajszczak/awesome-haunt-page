@@ -26,7 +26,7 @@ It was deployed as a site in the process of dogfooding.
 \[[source](https://gitlab.inria.fr/guix-hpc/website)\] - Guix high-performance computing effort
 * **[ActivityPub](https://activitypub.rocks/)**
 \[[source](https://gitlab.com/dustyweb/activitypub.rocks)\] - Decentralized social networking protocol 
-* **[Andrew Tropin](http://trop.in/)**
+* **[Andrew Tropin](https://trop.in/)**
 \[[source](https://git.sr.ht/~abcdw/trop.in)\] - Creator of Guix Home and rde
 
 ---
