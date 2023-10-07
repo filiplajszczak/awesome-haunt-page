@@ -28,6 +28,8 @@ It was deployed as a site in the process of dogfooding.
 \[[source](https://gitlab.com/dustyweb/activitypub.rocks)\] - Decentralized social networking protocol 
 * **[Andrew Tropin](https://trop.in/)**
 \[[source](https://git.sr.ht/~abcdw/trop.in)\] - Creator of Guix Home and rde
+* **[Karl Hallsby](https://karl.hallsby.com)**
+\[[source](https://cgit.karl.hallsby.com/website.git)\] - Personal page and small but interesting blog
 
 ---
 
