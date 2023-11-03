@@ -46,6 +46,9 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Karl Hallsby](https://karl.hallsby.com)**
   \[[source](https://cgit.karl.hallsby.com/website.git)\] - Personal page and
   small but interesting blog
+* **[Steve Sprang's nybble](https://nybble.org/)**
+  \[[source](https://git.sr.ht/~nybble/nybble-website)\] - Featuring a
+  neat custom reader for embedding scheme in markdown.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
