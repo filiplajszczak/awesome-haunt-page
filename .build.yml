@@ -1,6 +1,7 @@
 image: guix 
 packages:
   - haunt
+  - hut
   - guile-commonmark
 oauth: pages.sr.ht/PAGES:RW
 environment:
@@ -11,5 +12,5 @@ tasks:
     haunt build
     tar -C site -cvz . > ../site.tar.gz
 - upload: |
-    acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz
+    hut pages publish -d $site site.tar.gz
 
