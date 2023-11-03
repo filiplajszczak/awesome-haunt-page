@@ -1,12 +1,14 @@
 ### [Awesome Haunt](https://awesome.haunt.page/)
 
-#### Collection of sites made with [Haunt](https://dthompson.us/projects/haunt.html)
+#### Collection of sites made with and stuff about [Haunt](https://dthompson.us/projects/haunt.html)
 
 Following was created as a list of resources collected to learn Haunt by
 example.
 
-It was deployed as a site in the process of dogfooding and expanded to include
-more sites created with Haunt.
+It was deployed as a site in the process of dogfooding and later expanded to include
+more sites created with Haunt and other resources about it.
+
+Here is the list of interesting sites made with Haunt that I found so far:
 
 * **[David Thompson](https://dthompson.us/)**
   \[[source](https://git.dthompson.us/blog.git/)\] - Creator of Haunt
@@ -44,6 +46,32 @@ more sites created with Haunt.
 * **[Karl Hallsby](https://karl.hallsby.com)**
   \[[source](https://cgit.karl.hallsby.com/website.git)\] - Personal page and
   small but interesting blog
+
+Here is the list of helpful materials about Haunt collected, so you don't have to:
+
+* **[Haunt: A Static Site Generator in Guile
+  Scheme](https://dthompson.us/introducing-haunt.html)** - The original article 
+  introducing Haunt (2015)
+* **[Migrating from hugo to
+  haunt](https://bendersteed.tech/posts/migrating-from-hugo-to-haunt.html)** - A 
+  road to freedom (2019)
+* **[Transitioning to
+  Haunt](https://jakob.space/blog/transition-to-haunt.html)** - About 
+  generating html with ox-haunt (2020)
+* **[Org mode and
+  Haunt](https://bendersteed.tech/posts/org-mode-and-haunt.html)** - Another 
+  take on ox-haunt (2020)
+* **[Site converted to
+  Haunt](https://bendersteed.tech/posts/migrating-from-hugo-to-haunt.html)** - A 
+  nice example of an archive page template (2022)
+* **[Pushing Haunt to Its
+  Limits](https://jakob.space/blog/pushing-haunt-to-its-limits.html)** - 
+  Incorporating dynamic content into a Haunt site (2022)
+* **[Scheme: Trying out Haunt](https://www.youtube.com/watch?v=K6Ou4qbEKlw)** - 
+  YouTube live stream (2023)
+* **[Scheme: Building a Blog with
+  Haunt](https://www.youtube.com/watch?v=7jKxC99F9eQ)** - YouTube live 
+  stream (2023)
 
 ---
 
