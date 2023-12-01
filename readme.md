@@ -11,7 +11,7 @@ more sites created with Haunt and other resources about it.
 Here is the list of interesting sites made with Haunt that I found so far:
 
 * **[David Thompson](https://dthompson.us/)**
-  \[[source](https://git.dthompson.us/blog.git/)\] - Creator of Haunt
+  \[[source](https://git.dthompson.us/blog.git)\] - Creator of Haunt
 * **[GNU Guile](https://www.gnu.org/software/guile/)**
   \[[source](http://git.savannah.gnu.org/cgit/guile/guile-web.git)\] - The
   language
@@ -49,6 +49,9 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Steve Sprang's nybble](https://nybble.org/)**
   \[[source](https://git.sr.ht/~nybble/nybble-website)\] - Featuring a
   neat custom reader for embedding scheme in markdown.
+* **[Pre-Scheme](https://prescheme.org/)**
+  \[[source](https://codeberg.org/flatwhatson/prescheme-dot-org)\] - Pre-Scheme 
+  is a statically typed dialect of Scheme.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
