@@ -58,6 +58,8 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Dezyne](https://dezyne.org/)**
   \[[source](https://gitlab.com/janneke/dezyne.org)\] - Dezyne 
   programming language and a set of tools.
+* **[Pierre-Antoine Rouby](https://parouby.fr/)**
+  \[[source](https://framagit.org/prouby/blog)\] - Blog, CV & projects.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
