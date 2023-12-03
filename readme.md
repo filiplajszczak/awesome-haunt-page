@@ -52,6 +52,12 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Pre-Scheme](https://prescheme.org/)**
   \[[source](https://codeberg.org/flatwhatson/prescheme-dot-org)\] - Pre-Scheme 
   is a statically typed dialect of Scheme.
+* **[Janneke Nieuwenhuizen](https://joyofsource.com/)**
+  \[[source](https://gitlab.com/janneke/joyofsource.com)\] - Main 
+  author of GNU MES et al.
+* **[Dezyne](https://dezyne.org/)**
+  \[[source](https://gitlab.com/janneke/dezyne.org)\] - Dezyne 
+  programming language and a set of tools.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
