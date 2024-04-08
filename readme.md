@@ -60,6 +60,9 @@ Here is the list of interesting sites made with Haunt that I found so far:
   programming language and a set of tools.
 * **[Pierre-Antoine Rouby](https://parouby.fr/)**
   \[[source](https://framagit.org/prouby/blog)\] - Blog, CV & projects.
+* **[Giornata](https://giornata.grtcdr.tn/)**
+  \[[source](https://git.sr.ht/~grtcdr/giornata.grtcdr.tn)\] - Foolishly simple
+  journaling system
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
