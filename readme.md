@@ -63,6 +63,9 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Giornata](https://giornata.grtcdr.tn/)**
   \[[source](https://git.sr.ht/~grtcdr/giornata.grtcdr.tn)\] - Foolishly simple
   journaling system
+* **[Stephen Lloyd](https://somenotes.stevelloyd.net/)**
+  \[[source](https://gitlab.com/zosho/somenotes-source)\] - A nice real-life example of a 
+  work-in-progress Haunt site.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
