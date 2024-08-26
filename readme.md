@@ -64,8 +64,12 @@ Here is the list of interesting sites made with Haunt that I found so far:
   \[[source](https://git.sr.ht/~grtcdr/giornata.grtcdr.tn)\] - Foolishly simple
   journaling system
 * **[Stephen Lloyd](https://somenotes.stevelloyd.net/)**
-  \[[source](https://gitlab.com/zosho/somenotes-source)\] - A nice real-life example of a 
-  work-in-progress Haunt site.
+  \[[source](https://gitlab.com/zosho/somenotes-source)\] - A nice real-life 
+  example of a work-in-progress Haunt site.
+* **[Wilko's literatelisp blog](https://me.literatelisp.eu/)**
+  \[[source](https://codeberg.org/theesm/literatelisp-haunt)\] - A collection 
+  of notes on functional and declarative programming, Guix, Emacs and Scheme.
+
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
