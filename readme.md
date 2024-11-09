@@ -29,6 +29,10 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Spritely project](https://spritelyproject.org/)**
   \[[source](https://gitlab.com/spritely/spritelyproject.org)\] - Project to
   level up the federated social web
+* **[Spritely Institute](https://spritely.institute/)**
+  \[[source](https://gitlab.com/spritely/spritely-website)\] - Spritely
+  Networked Communities Institute is a nonprofit that is home to Spritely
+  project.
 * **[Foss and Crafts](https://fossandcrafts.org/)**
   \[[source](https://gitlab.com/fossandcrafts/fossandcrafts-website)\] - Podcast
   about free software
