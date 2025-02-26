@@ -21,7 +21,7 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Bootstrappable Builds](https://www.bootstrappable.org/)**
   \[[source](https://git.savannah.gnu.org/cgit/guix/bootstrappable.git/)\] -
   Building software from source (almost) without binaries
-* **[bendersteed blog](https://bendersteed.tech/)**
+* **[bendersteed blog](https://web.archive.org/web/20230929074354/https://bendersteed.tech/)**
   \[[source](https://gitlab.com/bendersteed/bendersteed-tech)\] - Mathematician
   and programmer
 * **[Dusty Cloud Brainstorms](https://dustycloud.org/)**
@@ -87,7 +87,7 @@ Here is the list of helpful materials about Haunt collected, so you don't have t
   Haunt](https://jakob.space/blog/transition-to-haunt.html)** - About 
   generating html with ox-haunt (2020)
 * **[Org mode and
-  Haunt](https://bendersteed.tech/posts/org-mode-and-haunt.html)** - Another 
+  Haunt](https://web.archive.org/web/20210802212116/https://bendersteed.tech/posts/org-mode-and-haunt.html)** - Another 
   take on ox-haunt (2020)
 * **[Site converted to
   Haunt](https://bendersteed.tech/posts/migrating-from-hugo-to-haunt.html)** - A 
