@@ -73,6 +73,9 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Wilko's literatelisp blog](https://me.literatelisp.eu/)**
   \[[source](https://codeberg.org/theesm/literatelisp-haunt)\] - A collection 
   of notes on functional and declarative programming, Guix, Emacs and Scheme.
+* **[Wolf's Den](https://wolfsden.cz/index.html)**
+  \[[source](https://git.wolfsden.cz/wolfsden.cz/) - Tomas Volf's personal
+  site with a blog and a collection of projects.
 
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
