@@ -71,9 +71,13 @@ Here is the list of interesting sites made with Haunt that I found so far:
   \[[source](https://codeberg.org/theesm/literatelisp-haunt)\] - A collection 
   of notes on functional and declarative programming, Guix, Emacs and Scheme.
 * **[Wolf's Den](https://wolfsden.cz/index.html)**
-  \[[source](https://git.wolfsden.cz/wolfsden.cz/) - Tomas Volf's personal
+  \[[source](https://git.wolfsden.cz/wolfsden.cz/)\] - Tomas Volf's personal
   site with a blog and a collection of projects.
-
+* **[System Crafters](https://systemcrafters.net/)**
+  \[[source](https://codeberg.org/SystemCrafters/systemcrafters-site)\] - System
+  Crafters is a community and learning resource for computer enthusiasts who
+  are interested in crafting their computing experience to increase their
+  enjoyment and productivity.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
@@ -100,6 +104,9 @@ Here is the list of helpful materials about Haunt collected, so you don't have t
 * **[Scheme: Building a Blog with
   Haunt](https://www.youtube.com/watch?v=7jKxC99F9eQ)** - YouTube live 
   stream (2023)
+* **[Rebuilding the System Crafters Site in Guile
+  Scheme](https://www.youtube.com/watch?v=pHh6vQysbqk)** - YouTube live stream
+  (2025)
 
 ---
 
