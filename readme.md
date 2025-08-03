@@ -21,7 +21,7 @@ Here is the list of interesting sites made with Haunt that I found so far:
 * **[Bootstrappable Builds](https://www.bootstrappable.org/)**
   \[[source](https://git.savannah.gnu.org/cgit/guix/bootstrappable.git/)\] -
   Building software from source (almost) without binaries
-* **[bendersteed blog](https://web.archive.org/web/20230929074354/https://bendersteed.tech/)**
+* **[bendersteed blog](https://bendersteed.gr/)**
   \[[source](https://gitlab.com/bendersteed/bendersteed-tech)\] - Mathematician
   and programmer
 * **[Dusty Cloud Brainstorms](https://dustycloud.org/)**
