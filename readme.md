@@ -85,17 +85,14 @@ Here is the list of helpful materials about Haunt collected, so you don't have t
   Scheme](https://dthompson.us/introducing-haunt.html)** - The original article 
   introducing Haunt (2015)
 * **[Migrating from hugo to
-  haunt](https://bendersteed.tech/posts/migrating-from-hugo-to-haunt.html)** - A 
+  haunt](https://bendersteed.gr/posts/migrating-from-hugo-to-haunt.html)** - A 
   road to freedom (2019)
 * **[Transitioning to
   Haunt](https://jakob.space/blog/transition-to-haunt.html)** - About 
   generating html with ox-haunt (2020)
 * **[Org mode and
-  Haunt](https://web.archive.org/web/20210802212116/https://bendersteed.tech/posts/org-mode-and-haunt.html)** - Another 
+  Haunt](https://bendersteed.gr/posts/org-mode-and-haunt.html)** - Another 
   take on ox-haunt (2020)
-* **[Site converted to
-  Haunt](https://bendersteed.tech/posts/migrating-from-hugo-to-haunt.html)** - A 
-  nice example of an archive page template (2022)
 * **[Pushing Haunt to Its
   Limits](https://jakob.space/blog/pushing-haunt-to-its-limits.html)** - 
   Incorporating dynamic content into a Haunt site (2022)
