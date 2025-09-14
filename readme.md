@@ -83,26 +83,29 @@ Here is the list of helpful materials about Haunt collected, so you don't have t
 
 * **[Haunt: A Static Site Generator in Guile
   Scheme](https://dthompson.us/introducing-haunt.html)** - The original article 
-  introducing Haunt (2015)
+  introducing Haunt. (2015)
 * **[Migrating from hugo to
   haunt](https://bendersteed.gr/posts/migrating-from-hugo-to-haunt.html)** - A 
-  road to freedom (2019)
+  road to freedom. (2019)
 * **[Transitioning to
   Haunt](https://jakob.space/blog/transition-to-haunt.html)** - About 
-  generating html with ox-haunt (2020)
+  generating html with ox-haunt. (2020)
 * **[Org mode and
   Haunt](https://bendersteed.gr/posts/org-mode-and-haunt.html)** - Another 
-  take on ox-haunt (2020)
+  take on ox-haunt. (2020)
+* **[Hosting a blog using only 
+  Scheme](https://othacehe.org/hosting-a-blog-using-only-scheme.html)** - 
+  Includes Guix server deployment instructions. (2020) 
 * **[Pushing Haunt to Its
   Limits](https://jakob.space/blog/pushing-haunt-to-its-limits.html)** - 
-  Incorporating dynamic content into a Haunt site (2022)
+  Incorporating dynamic content into a Haunt site. (2022)
 * **[Scheme: Trying out Haunt](https://www.youtube.com/watch?v=K6Ou4qbEKlw)** - 
-  YouTube live stream (2023)
+  YouTube live stream. (2023)
 * **[Scheme: Building a Blog with
   Haunt](https://www.youtube.com/watch?v=7jKxC99F9eQ)** - YouTube live 
-  stream (2023)
+  stream. (2023)
 * **[Rebuilding the System Crafters Site in Guile
-  Scheme](https://www.youtube.com/watch?v=pHh6vQysbqk)** - YouTube live stream
+  Scheme](https://www.youtube.com/watch?v=pHh6vQysbqk)** - YouTube live stream.
   (2025)
 
 ---
