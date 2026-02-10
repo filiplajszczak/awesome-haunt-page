@@ -19,7 +19,7 @@ Here is the list of interesting sites made with Haunt that I found so far:
   \[[source](https://git.savannah.gnu.org/cgit/guix/guix-artwork.git/tree/website)\] -
   Looks like the most complex haunt website
 * **[Bootstrappable Builds](https://www.bootstrappable.org/)**
-  \[[source](https://git.savannah.gnu.org/cgit/guix/bootstrappable.git/)\] -
+  \[[source](https://codeberg.org/guix/bootstrappable)\] -
   Building software from source (almost) without binaries
 * **[bendersteed blog](https://bendersteed.gr/)**
   \[[source](https://gitlab.com/bendersteed/bendersteed-tech)\] - Mathematician
