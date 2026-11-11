@@ -78,6 +78,10 @@ Here is the list of interesting sites made with Haunt that I found so far:
   Crafters is a community and learning resource for computer enthusiasts who
   are interested in crafting their computing experience to increase their
   enjoyment and productivity.
+* **[Lovergine](https://lovergine.com/)**
+  \[[source](https://github.com/fpl/lovergine.com)\] - Francesco Paolo
+  Lovergine's blog, with custom builders for an
+  ikiwiki-style wiki and a Planet-style Atom/RSS feed aggregator.
 
 Here is the list of helpful materials about Haunt collected, so you don't have to:
 
